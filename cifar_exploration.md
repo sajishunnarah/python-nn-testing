@@ -13,3 +13,4 @@ For the cifar_regular, I got the following:
 - 7 min 41 seconds for CPU
 - 5 min 45 seconds for MPS
 - 2 min X seconds for GPU on CoLab (didnt specify minutes)
+- 2 min flat for GPU on my PC
